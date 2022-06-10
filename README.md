@@ -1,16 +1,18 @@
-<h1 align="center">🧞Hello Eveyone! I'm Mx-Devsu </h1>
+<h1 align="center">🧞Hello Eveyone! I'm Dalings</h1>
 
-<!--
-**Mx-Devsu/Mx-Devsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> I'm a nomading Linux Engineer and a Developer </h3>
 
-Here are some ideas to get you started:
+## A Bit About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I am fluent in Python 🐍, Linux 🐧, automation 🤖
+* I grew up in Russia, and spent all my life there. But now I am a student.
+* I study in Moscow Technical University of Communications and Informatics (Super Useful).
+* I like lemurs (How they not like??)
+
+## Things I code on Github
+
+* All kinds of things on Python, like [Telegram Bots](https://github.com/Dalings-Lab/Bot-with-timetable), [Algorithms](https://github.com/Dalings-Lab/Moscow-season), [web-apps](https://github.com/Dalings-Lab/Flask-App).
+* Will add linux guides and bash scripts for solve everyday tasks.
+
+## My Stack
+

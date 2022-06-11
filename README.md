@@ -62,7 +62,7 @@
   <a href="https://t.me/Dalings_Lab" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/telegram.svg" alt="telegram" height="30" width="40" />
   </a>
-  <a href="vladimirxbogdanov@mail.ru" target="_blank">
+  <a href="mailto:vladimirxbogdanov@mail.ru" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/gmail.svg" alt="mail" height="30" width="40" />
   </a>
 </p>

@@ -20,9 +20,6 @@
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://github.com/Dalings-Lab/Dalings-Lab/blob/main/icons/python.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://github.com/Dalings-Lab/Dalings-Lab/blob/main/icons/rust.svg" alt="rust" width="40" height="40"/>
-  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://github.com/Dalings-Lab/Dalings-Lab/blob/main/icons/bash.svg" alt="bash" width="40" height="40"/> 
   </a>
@@ -32,26 +29,11 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://github.com/Dalings-Lab/Dalings-Lab/blob/main/icons/git.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://www.ansible.com" target="_blank"> 
-    <img src="https://github.com/Dalings-Lab/Dalings-Lab/blob/main/icons/ansible.svg" alt="ansible" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jenkins.io"> 
-    <img src="https://github.com/Dalings-Lab/Dalings-Lab/blob/main/icons/jenkins.png" alt="jenkins" width="35" height="45"/> 
-  </a> 
-  <a href="https://www.vagrantup.com/" target="_blank"> 
-    <img src="https://github.com/Dalings-Lab/Dalings-Lab/blob/main/icons/vagrant.svg" alt="vagrant" width="40" height="40"/> 
-  </a> 
   <a href="https://www.docker.com"> 
     <img src="https://github.com/Dalings-Lab/Dalings-Lab/blob/main/icons/docker.svg" alt="docker" width="50" height="50"/> 
   </a> 
-  <a href="https://cloud.google.com/">
-    <img src="https://github.com/Dalings-Lab/Dalings-Lab/blob/main/icons/gcp.svg" alt="gcp width="40" height="40"/"
-  </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://github.com/Dalings-Lab/Dalings-Lab/blob/main/icons/postgresql.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://github.com/Dalings-Lab/Dalings-Lab/blob/main/icons/javascript.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://github.com/Dalings-Lab/Dalings-Lab/blob/main/icons/html.svg" alt="html5" width="40" height="40"/>

@@ -42,3 +42,13 @@
     <img src="https://github.com/Dalings-Lab/Dalings-Lab/blob/main/icons/css.svg" alt="css3" width="40" height="40"/> 
   </a>
 </p>
+
+## &#x1f4c8; GitHub Stats
+<p align="center">
+  <a href="https://github.com/Dalings-Lab">
+    <img height="200px"width="55%" align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Dalings-Lab&include_all_commits=true&count_private=true&show_icons=true&theme=default_repocard" />
+  </a>
+  <a href="https://github.com/Dalings-Lab">
+    <img height="200px" width="40%" alt="top languages stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalings-Lab&langs_count=8&layout=compact&theme=default_repocard" />
+  </a>
+</p>

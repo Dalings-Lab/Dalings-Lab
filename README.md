@@ -49,6 +49,6 @@
     <img height="200px"width="55%" align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Dalings-Lab&include_all_commits=true&count_private=true&show_icons=true&theme=default_repocard" />
   </a>
   <a href="https://github.com/Dalings-Lab">
-    <img height="200px" width="40%" alt="top languages stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalings-Lab&langs_count=8&layout=compact&theme=default_repocard" />
+    <img height="200px" width="55%" alt="top languages stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalings-Lab&langs_count=8&layout=compact&theme=default_repocard" />
   </a>
 </p>

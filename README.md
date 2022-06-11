@@ -52,3 +52,18 @@
     <img height="200px" width="40%" alt="top languages stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalings-Lab&langs_count=8&layout=compact&theme=default_repocard" />
   </a>
 </p>
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.github.com/Dalings-Lab" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/github.svg" alt="github" height="30" width="40" />
+  </a>
+  <a href="https://t.me/Dalings_Lab" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/telegram.svg" alt="telegram" height="30" width="40" />
+  </a>
+  <a href="vladimirxbogdanov@mail.ru" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/gmail.svg" alt="mail" height="30" width="40" />
+  </a>
+</p>
+<br>
